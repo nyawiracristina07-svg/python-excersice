@@ -1,0 +1,5 @@
+first_name = input("what is your first name?")
+last_name = input("what is your last name?")
+print(type(first_name))
+print(type(last_name))
+print(f"My name is {first_name} {last_name}!")
