@@ -1,0 +1,1 @@
+bb input("hello," + ... + "!")

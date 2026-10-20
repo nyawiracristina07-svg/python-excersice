@@ -1,0 +1,5 @@
+print(2026,10,11, sep="-")
+print('Loading', end='...')
+print('done')
+print("")
+print("The end ")
