@@ -14,3 +14,9 @@ print(round(2.5))
 print("3" * 3)
 #9 int converts  the string into an integer then it does the operation asked to multiply by 3  
 print(int("3") * 3)
+
+
+
+
+
+
